@@ -1,6 +1,6 @@
 <?php
 /**
- * Stamp plugin for Craft CMS 4.x
+ * Stamp plugin for Craft CMS 5.x
  *
  * A simple plugin for adding timestamps to filenames.
  *

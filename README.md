@@ -2,11 +2,11 @@ Stamp for Craft
 ===========
 A tiny plugin for adding timestamp to filenames. 
 
-*This is the Craft 3.x version of Stamp, for the Craft 2.x version see the [master branch](https://github.com/aelvan/Stamp-Craft/tree/master).*
+*This is the Craft 5.x version of Stamp, for the Craft 2.x version see the [master branch](https://github.com/aelvan/Stamp-Craft/tree/master).*
 
 Requirements
 ---
-This plugin requires Craft CMS 4.0.0 or later.
+This plugin requires Craft CMS 5.0.0 or later.
 
 Installation
 ---
